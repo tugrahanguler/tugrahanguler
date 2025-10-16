@@ -2,6 +2,7 @@
 
 # 👋 Merhaba, Ben Tuğrahan!
 
+### 🎓 Marmara Üniversitesi - Bilgisayar Mühendisliği Mezunu
 ### 💼 Software Developer
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Backend+Developer;AI+Enthusiast;Database+Specialist;Full+Stack+Developer" alt="Typing SVG" />
@@ -12,7 +13,7 @@
 
 ## 🚀 Hakkımda
 
-
+```python
 class SoftwareDeveloper:
     def __init__(self):
         self.name = "Tuğrahan"
@@ -26,7 +27,7 @@ class SoftwareDeveloper:
 
 me = SoftwareDeveloper()
 me.say_hi()
-
+```
 
 ---
 
@@ -102,7 +103,7 @@ me.say_hi()
 
 ## 💡 Odak Alanlarım
 
-
+```mermaid
 mindmap
   root((Tuğrahan))
     Backend Development
@@ -124,20 +125,20 @@ mindmap
       Docker
       CI/CD
       Git
-
+```
 
 ---
 
 ## 📫 Benimle İletişime Geçin
 
 <p align="center">
-  <a href="https://linkedin.com/in/tugrahanguler">
+  <a href="https://linkedin.com/in/PROFIL_ADIN">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:tugrahanguler09@gmail.com">
+  <a href="mailto:EMAIL_ADRESIN">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://github.com/tugrahanguler">
+  <a href="https://github.com/KULLANICI_ADIN">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
