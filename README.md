@@ -2,7 +2,6 @@
 
 # 👋 Merhaba, Ben Tuğrahan!
 
-### 🎓 Marmara Üniversitesi - Bilgisayar Mühendisliği Mezunu
 ### 💼 Software Developer
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Backend+Developer;AI+%26+Machine+Learning;Database+Specialist;Full+Stack+Developer" alt="Typing SVG" />
@@ -15,9 +14,7 @@
 
 - 🎓 Marmara Üniversitesi Bilgisayar Mühendisliği mezunuyum
 - 💼 Backend geliştirme ve yapay zeka alanlarında çalışıyorum
-- 🔭 Şu anda AI/ML ve cloud teknolojileri üzerine yoğunlaşıyorum
 - 🌱 Sürekli öğrenmeye ve kendimi geliştirmeye devam ediyorum
-- ⚡ Veritabanı tasarımı ve optimizasyonu konusunda deneyimliyim
 
 ---
 
@@ -29,7 +26,6 @@
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
 </p>
 
 ### 🎯 Backend & Framework
@@ -38,7 +34,6 @@
   <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
 </p>
 
@@ -91,7 +86,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KULLANICI_ADIN&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=tugrahanguler&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
 </div>
 
 ---
@@ -103,7 +98,7 @@
     <td align="center" width="25%">
       <img src="https://cdn-icons-png.flaticon.com/512/2906/2906206.png" width="60" height="60" alt="Backend"/>
       <br><b>Backend Development</b>
-      <br>ASP.NET, Node.js, RESTful APIs
+      <br>ASP.NET, Flask, Node.js, RESTful APIs
     </td>
     <td align="center" width="25%">
       <img src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" width="60" height="60" alt="AI"/>
@@ -113,12 +108,12 @@
     <td align="center" width="25%">
       <img src="https://cdn-icons-png.flaticon.com/512/2906/2906274.png" width="60" height="60" alt="Database"/>
       <br><b>Database Design</b>
-      <br>SQL Server, PostgreSQL, T-SQL
+      <br>SQL Server, MySQL, T-SQL, NoSQL(MongoDB,Redis)
     </td>
     <td align="center" width="25%">
       <img src="https://cdn-icons-png.flaticon.com/512/2920/2920277.png" width="60" height="60" alt="DevOps"/>
       <br><b>DevOps</b>
-      <br>Docker, Git, CI/CD
+      <br>Docker, Git
     </td>
   </tr>
 </table>
@@ -128,13 +123,13 @@
 ## 📫 Benimle İletişime Geçin
 
 <p align="center">
-  <a href="https://linkedin.com/in/PROFIL_ADIN">
+  <a href="https://linkedin.com/in/tugrahanguler">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:EMAIL_ADRESIN">
+  <a href="mailto:tugrahanguler09@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://github.com/KULLANICI_ADIN">
+  <a href="https://github.com/tugrahanguler">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
@@ -142,7 +137,7 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=KULLANICI_ADIN&color=blueviolet&style=for-the-badge&label=PROFİL+GÖRÜNTÜLEME" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=tugrahanguler&color=blueviolet&style=for-the-badge&label=PROFİL+GÖRÜNTÜLEME" alt="Profile views"/>
 </div>
 
 <div align="center">
